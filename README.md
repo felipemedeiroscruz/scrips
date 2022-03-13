@@ -6,12 +6,11 @@
 
 Contribuições são bem vindas, desde já eu agradeço a todos. 
 
-## Tabela Resumo dos Scrips
+## Tabela resumo dos Scrips
 
 
 Arquivo   | Status |Objetivo                
 --------- | ------ |-------- 
-Pop!_OS-21.10_remove.sh|**Em Construção**| Realiza a remoção de alguns softwares desnecessários **Em construção **
 Pop!_OS-21_10_install.sh |**Em Construção**| Instala as seguintes aplicações 
 Token5110.sh |Concluído e funcional| Realiza a instalação do Token 5110 bem como o gerenciador safenet authentication client tools
-
+Docker.sh
